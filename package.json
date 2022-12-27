@@ -4,7 +4,7 @@
     "description": "A library for managing CRUD operations for collections in cloud firestore provided by Firebase, mimics what mongoose does for MongoDB",
     "main": "index.js",
     "scripts": {
-        "test": "tsc"
+        "build": "tsc"
     },
     "author": "Carlton Rodrigues",
     "license": "ISC",
